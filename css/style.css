@@ -1,0 +1,23 @@
+.gradient-background {
+    background: linear-gradient(300deg, #b0b4b6, #f3f2f2, #9a9898);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.my-background{
+   background-image: url(https://img.freepik.com/free-vector/smooth-white-wave-background_52683-55288.jpg?w=2000&t=st=1690919893~exp=1690920493~hmac=8e9a959892d84c02ceef2088991430cd47fbcd3f30adf44c774d7aaa39371e58);
+    display: flex;
+    height: 700px; width: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+.main-title{
+  font-size: 100px;
+}
+
+
+
+
+
+
